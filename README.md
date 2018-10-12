@@ -1,5 +1,5 @@
 # css-wis
-Improve your FIT information system UX by injecticg this css file in your favourite browser.
+Improve your FIT information system UX by injecting this CSS file in your favourite browser.
 It's optimized only for desktop.
 
 ![WIS Study](https://raw.githubusercontent.com/kudlav/css-wis/master/img/study-cs.png)
