@@ -1,7 +1,7 @@
 /*
  * Author: Vladan Kudlac
  * License: The Unlicense
- * Version: 1.1
+ * Version: 1.2
 */
 
 /* ### BEGINNING OF FONTS ### */
@@ -229,7 +229,6 @@ input[type=submit], input[type=button] {
 
 table.tfixed{
   max-width:100%;
-  table-layout: fixed;
 }
 
 table.tfixed img {
