@@ -255,6 +255,10 @@ table.tfixed th:nth-child(3) {
   width: 5rem;
 }
 
+table.res {
+  max-width: initial;
+}
+
 a.sbtn, a.sbtnr, a.sbtng, a.sbtno {
   height:auto;
   padding: 10px 15px;
