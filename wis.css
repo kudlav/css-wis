@@ -1,7 +1,7 @@
 /*
  * Author: Vladan Kudlac
  * License: The Unlicense
- * Version: 1.4
+ * Version: 1.5
 */
 
 /* ### BEGINNING OF FONTS ### */
@@ -234,24 +234,24 @@ input[type="submit"], input[type="button"], a.btn {
 	border-radius: 0!important;
 }
 
-table.tfixed {
+table.res.tfixed {
 	max-width:100%;
 	table-layout: fixed;
 }
 
-table.tfixed img {
+table.res.tfixed img {
 	max-width: 100%;
 }
 
-table.tfixed pre {
+table.res.tfixed pre {
 	white-space: pre-wrap;
 }
 
-table.tfixed td {
+table.res.tfixed td {
 	width: 6rem;
 }
 
-table.tfixed th:nth-child(3) {
+table.res.tfixed th:nth-child(3) {
 	width: 5rem;
 }
 
